@@ -1,0 +1,77 @@
+body {
+    padding-top: 7rem;
+    padding-bottom: 2rem;
+    
+}
+.login-box {
+    box-shadow: 3px 3px 3px 3px silver;
+    margin-bottom: 20px;
+}
+
+.login-form-style {
+    width: 80%;
+    margin: 7rem auto;
+    
+}
+
+.login-form-style h2 {
+    text-align: center;
+    margin-bottom: 2rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.login-btn {
+    background-color: #EB0045;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.login-btn:hover {
+    background-color: transparent;
+    color: #EB0045;
+    border: 1px solid #EB0045;
+    transition: ease-in 0.5s;
+}
+
+.btn-login-nav {
+    background-color: #EB0045;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    border-radius: 0%;
+  }
+  
+  .btn-login-nav:hover {
+    background-color: transparent;
+    border: 1px solid #EB0045ff;
+    color: #EB0045; 
+    transition: ease-in 300ms;
+  }
+
+
+/* .get-started .btn{
+    position: absolute;
+    top: 60%;
+    left: 18%;
+    width: 60%;
+    text-transform: uppercase; 
+    border-radius: 0%;  
+} */
+
+.create-website {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+}
+.create-website .btn {
+    margin-top: 30px;
+    border-radius: 0%;
+    text-transform: uppercase;
+}
+.featurette-divider {
+    margin: 5rem 0; /* Custom bootstrap divider */
+  }
