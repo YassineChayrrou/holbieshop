@@ -7,18 +7,16 @@
     <div class="collapse navbar-collapse" id="navbarCollapse">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item active">
-          <a class="nav-link" href="#">Store <span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="/store">Store <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             Categories
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <a class="dropdown-item" href="#">Fashion</a>
+            <a class="dropdown-item" href="#">Clothes</a>
             <a class="dropdown-item" href="#">Jewlery & watches</a>
-            <a class="dropdown-item" href="#">Industrial</a>
             <a class="dropdown-item" href="#">Technology</a>
-            
           </div>
         </li>
         <li class="nav-item">
@@ -28,9 +26,9 @@
           <a class="nav-link" href="# ">Contact us</a>
         </li>
       </ul>
-      
+
       <div class="mt-2 mt-md-0">
-        <a href="/login" class="btn btn-md btn-login-nav">login account</a>
+        <a href="/login" class="btn btn-md btn-danger btn-login-nav">login account</a>
       </div>
     </div>
   </nav>

@@ -24,3 +24,10 @@ Route::get('/login', function () {
 Route::get('/prices', function () {
     return view('prices');
 });
+
+Route::get('/store', function () {
+    return view('store');
+});
+// Route::get('/product', function () {
+//     return view('product');
+// });
