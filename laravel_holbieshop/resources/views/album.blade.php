@@ -16,8 +16,6 @@
                     <button type="button" class="btn btn-sm btn-outline-success">
                         <i class="fas fa-shopping-cart"></i>
                     </button>
-                    
-
                 </div>
             </div>
         </div>

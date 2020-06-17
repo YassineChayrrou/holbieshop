@@ -21,7 +21,7 @@
                         <div class="container create-website">
                             <h2>New to our website?</h2>
                             <h6>Discover our service, build your dream store and share a new experience.</h6>
-                            <button type="submit" class="btn  login-btn">create an account</button>
+                            <a href="/signup" class="btn  login-btn">create an account</a>
                         </div>
                     </div>
                     <div class="col-md-6">
@@ -52,7 +52,6 @@
   <footer class="footer mt-auto py-3">
     <div class="container" style="width: auto; padding: 0 25px;">
       <span class="text-secondary"> &copy; 2020 HolbyShop inc. all rights reserved. </span>
-      
     </div>
   </footer>
     

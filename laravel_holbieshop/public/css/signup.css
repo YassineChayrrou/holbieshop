@@ -1,0 +1,30 @@
+body
+{
+    background-image: linear-gradient(to right,  rgba(255, 0, 75, 0.6),   #EB0045
+    );
+    filter : grayscale(20%);
+    margin-top: 150px !important;
+}
+
+.register-left
+{
+    text-align: center;
+    color: #fff;
+    padding: 30px;
+}
+
+.register-left p
+{
+    padding: 20px 20px 0;
+}
+
+.register-left .btn-primary
+{
+    border-radius: 1.5rem;
+    width: 120px;
+    background: #f8f8f8;
+    font-weight: 600;
+    color: #555;
+    margin-top: 20px;
+    padding: 10px;
+}

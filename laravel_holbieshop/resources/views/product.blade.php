@@ -40,6 +40,7 @@
                   <p>Product code:HBTN2576</p>
                   <img src="stars.png" class="stars">
                   <p class="price">TND 40.00</p>
+                  {{ $s ?? '' }}
                   <p><b>Aviability:</b> In Stock</p>
                   <p><b>Condition:</b> NEW</p>
                   <p><b>Brand:</b> HBTN Company</p>

@@ -28,6 +28,12 @@ Route::get('/prices', function () {
 Route::get('/store', function () {
     return view('store');
 });
-// Route::get('/store/product', function () {
-//     return view('product');
-// });
+
+Route::get('/product', function () {
+    return view('product');
+});
+
+Route::get('/show', 'ShowProfile@show');
+Route::get('/signup', function () {
+    return view('signup');
+});

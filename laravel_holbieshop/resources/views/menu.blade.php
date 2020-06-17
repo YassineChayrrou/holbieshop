@@ -14,9 +14,9 @@
             Categories
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <a class="dropdown-item" href="#">Clothes</a>
+            <a class="dropdown-item" href="/product">Clothes</a>
+            <a class="dropdown-item" href="#">Bags</a>
             <a class="dropdown-item" href="#">Jewlery & watches</a>
-            <a class="dropdown-item" href="#">Technology</a>
           </div>
         </li>
         <li class="nav-item">
