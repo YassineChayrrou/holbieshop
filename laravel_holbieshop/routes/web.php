@@ -28,6 +28,6 @@ Route::get('/prices', function () {
 Route::get('/store', function () {
     return view('store');
 });
-// Route::get('/product', function () {
+// Route::get('/store/product', function () {
 //     return view('product');
 // });

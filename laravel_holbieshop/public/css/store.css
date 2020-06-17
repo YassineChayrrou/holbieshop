@@ -11,12 +11,49 @@ body {
     color: white;
     border-radius: 0%;
   }
-  
-  .btn-login-nav:hover {
+
+.btn-login-nav:hover {
     background-color: transparent;
     border: 1px solid #EB0045ff;
     color: #EB0045; 
     transition: ease-in 300ms;
-  }
+}
+
+.jumbotron {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    margin-bottom: 0;
+    background-color: #fff;
+}
+@media (min-width: 768px) {
+    .jumbotron {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    }
+}
+
+.jumbotron p:last-child {
+    margin-bottom: 0;
+}
+.jumbotron .container {
+    position: absolute;
+    top: 50%;
+}
+.jumbotron h1 {
+    font-weight: 300;
+}
+
+.jumbotron .container {
+    max-width: 40rem;
+}
+
+footer {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+footer p {
+    margin-bottom: .25rem;
+}
   
   
