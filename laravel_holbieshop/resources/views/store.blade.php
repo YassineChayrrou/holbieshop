@@ -37,9 +37,9 @@
 
     <section class="jumbotron text-center">
         <img src="./img/store-banner.jpg" alt="50% off sale banner">
-        <div class="container">
-        <h1>Album example</h1>
-        </div>
+        <!-- <div class="container">
+        <h1>just some brand i don't know!!!</h1>
+        </div> -->
     </section>
 
     <div class="album py-6 bg-white">
