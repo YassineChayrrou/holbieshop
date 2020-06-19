@@ -180,16 +180,6 @@
           </thead>
           <tbody>
 
-          @foreach($users as $user)
-            <tr>
-              <td>{{$user->id}}</td>
-              <td>{{$user->name}}</td>
-              <td>{{$user->sku}}</td>
-              <td>{{$user->quantity}}</td>
-              <td>{{$user->sellPrice}}</td>
-              <td>{{$user->img1}}</td>
-            </tr>
-            @endforeach
           </tbody>
         </table>
       </div>
