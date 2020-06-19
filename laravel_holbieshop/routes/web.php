@@ -42,6 +42,6 @@ Route::get('/contact', function () {
 
 Route::get('/admin/dashboard', 'admin\Products@showProducts');
 
-// Route::get('/dashboard', function () {
-//     return view('dashboard');
-// });
+Route::get('/checkout', function () {
+    return view('checkout');
+});

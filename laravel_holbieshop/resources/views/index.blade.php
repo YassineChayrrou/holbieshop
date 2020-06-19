@@ -151,57 +151,14 @@
   </div>
   
 </main>
-
-<footer class="container py-5">
-  <div class="row">
-    <div class="col-12 col-md">
-      <img src="img/logo.png" width="35" height="35" alt="red cart">
-      <small class="d-block mb-3 text-danger">&copy; HolbyShop</small>
-    </div>
-    <div class="col-6 col-md">
-      <h5>Features</h5>
-      <ul class="list-unstyled text-small">
-        <li><a class="text-danger" href="#">Payment</a></li>
-        <li><a class="text-danger" href="#">customer support</a></li>
-        <li><a class="text-danger" href="#">Stores</a></li>
-        <li><a class="text-danger" href="#">News Letter</a></li>
-        <li><a class="text-danger" href="#">Another one</a></li>
-        <li><a class="text-danger" href="#">Last time</a></li>
-      </ul>
-    </div>
-    <div class="col-6 col-md">
-      <h5>Resources</h5>
-      <ul class="list-unstyled text-small">
-        <li><a class="text-danger" href="#">Resource</a></li>
-        <li><a class="text-danger" href="#">Resource name</a></li>
-        <li><a class="text-danger" href="#">Another resource</a></li>
-        <li><a class="text-danger" href="#">Final resource</a></li>
-      </ul>
-    </div>
-    <div class="col-6 col-md">
-      <h5>Resources</h5>
-      <ul class="list-unstyled text-small">
-        <li><a class="text-danger" href="#">Business</a></li>
-        <li><a class="text-danger" href="#">Education</a></li>
-        <li><a class="text-danger" href="#">Government</a></li>
-        <li><a class="text-danger" href="#">Gaming</a></li>
-      </ul>
-    </div>
-    <div class="col-6 col-md">
-      <h5>About</h5>
-      <ul class="list-unstyled text-small">
-        <li><a class="text-danger" href="#">Team</a></li>
-        <li><a class="text-danger" href="#">Locations</a></li>
-        <li><a class="text-danger" href="#">Privacy</a></li>
-        <li><a class="text-danger" href="#">Terms</a></li>
-      </ul>
-    </div>
-  </div>
-
-</footer>
-<hr>
-<footer class="footer mt-auto py-3">
-  <div class="container" style="width: auto; padding: 0 25px;">
+<div class="jumbotron bg-light text-dark text-center">
+      <h1>Discover our team</h1>
+      <h2 style="text-transform: uppercase;">We are a bunch of enthusiasts</h3>
+      <h2 style="text-transform: uppercase;">We love what we do</h3>
+      <a href="/learn" class="btn btn-lg bg-danger text-light">Learn more</a>
+</div>
+<footer class="footer mt-auto py-3 bg-light">
+  <div class="container">
     <span class="text-secondary"> &copy; 2020 HolbyShop inc. all rights reserved. </span>
 
   </div>

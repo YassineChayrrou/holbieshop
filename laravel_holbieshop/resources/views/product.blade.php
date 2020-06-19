@@ -39,14 +39,14 @@
                   <h2>Running shoes + FREE SHIPPING</h2>
                   <p>Product code:HBTN2576</p>
                   <img src="img/stars.png" class="stars">
-                  <p class="price">TND 40.00</p>
+                  <p class="price">USD 50.00</p>
                   <p><b>Aviability:</b> In Stock</p>
                   <p><b>Condition:</b> NEW</p>
                   <p><b>Brand:</b> HBTN Company</p>
                   <label>Quantity:</label>
                   <input type="text" value="1">
                   <button type="button" class="btn btn-danger">Add to cart</button>
-                  <button type="button" class="btn btn-success">Buy</button>
+                  <a class="btn btn-success" href="/checkout">Buy</a>
                 </div>
 
 
