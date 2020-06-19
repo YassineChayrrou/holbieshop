@@ -46,17 +46,7 @@
         <div class="container">
             <div class="row">
                 @include('album')
-                @include('album')
-                @include('album')
-                @include('album')
-                @include('album')
-                @include('album')
-                @include('album')
-                @include('album')
-                @include('album')
-                @include('album')
-                @include('album')
-                @include('album')
+
             </div>
         </div>
     </div>

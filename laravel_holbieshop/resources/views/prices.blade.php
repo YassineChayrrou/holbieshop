@@ -28,6 +28,8 @@
       }
     </style>
     <link href="css/prices.css" rel="stylesheet">
+    <link href="css/home.css" rel="stylesheet">
+
   
   
   </head>
@@ -70,64 +72,21 @@
           <li>Large Supply channel</li>
           <li>Priority help center & email support</li>
         </ul>
-        <button type="button" class="btn btn-lg btn-block btn-danger">Contact Us</button>
+        <a class="btn btn-lg btn-block btn-danger" href="/contact">Contact Us</a>
       </div>
     </div>
 
   </div>
 
-  <footer class="container py-5">
-    <div class="row">
-      <div class="col-12 col-md">
-        <img src="img/logo.png" width="35" height="35" alt="red cart">
-        <small class="d-block mb-3 text-danger">&copy; HolbyShop</small>
-      </div>
-      <div class="col-6 col-md">
-        <h5>Features</h5>
-        <ul class="list-unstyled text-small">
-          <li><a class="text-danger" href="#">Payment</a></li>
-          <li><a class="text-danger" href="#">customer support</a></li>
-          <li><a class="text-danger" href="#">Products</a></li>
-          <li><a class="text-danger" href="#">News Letter</a></li>
-        </ul>
-      </div>
-      <div class="col-6 col-md">
-        <h5>Resources</h5>
-        <ul class="list-unstyled text-small">
-          <li><a class="text-danger" href="#">Resource</a></li>
-          <li><a class="text-danger" href="#"></a></li>
-          <li><a class="text-danger" href="#"></a></li>
-          <li><a class="text-danger" href="#"></a></li>
-        </ul>
-      </div>
-      <div class="col-6 col-md">
-        <h5>Resources</h5>
-        <ul class="list-unstyled text-small">
-          <li><a class="text-danger" href="#">Business</a></li>
-          <li><a class="text-danger" href="#">Education</a></li>
-          <li><a class="text-danger" href="#"></a></li>
-          <li><a class="text-danger" href="#"></a></li>
-        </ul>
-      </div>
-      <div class="col-6 col-md">
-        <h5>About</h5>
-        <ul class="list-unstyled text-small">
-          <li><a class="text-danger" href="#">Team</a></li>
-          <li><a class="text-danger" href="#">Locations</a></li>
-          <li><a class="text-danger" href="#">Privacy</a></li>
-          <li><a class="text-danger" href="#">Terms</a></li>
-        </ul>
-      </div>
-    </div>
-  </footer>
-  <hr>
+  <hr class="featurette-divider">
+
   <footer class="footer mt-auto py-3">
-    <div class="container" style="width: auto; padding: 0 25px;">
-      <span class="text-secondary"> &copy; 2020 HolbyShop inc. all rights reserved. </span>
-  
-    </div>
-  </footer>
-</div>
+  <div class="container" style="width: auto; padding: 0 25px;">
+    <span class="text-secondary"> &copy; 2020 HolbyShop inc. all rights reserved. </span>
+
+  </div>
+</footer>
+
 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script>window.jQuery || document.write('<script src="assets/js/vendor/jquery.slim.min.js"><\/script>')</script><script src="assets/dist/js/bootstrap.bundle.js"></script>

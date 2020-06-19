@@ -23,12 +23,12 @@
           <a class="nav-link" href="/prices">Pricing</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="# ">Contact us</a>
+          <a class="nav-link" href="/contact">Contact us</a>
         </li>
       </ul>
 
       <div class="mt-2 mt-md-0">
-        <a href="/login" class="btn btn-md btn-danger btn-login-nav">login account</a>
+        <a href="/login" class="btn btn-md btn-danger"><b>login account</b></a>
       </div>
     </div>
   </nav>

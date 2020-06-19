@@ -34,6 +34,10 @@ Route::get('/product', function () {
 });
 
 Route::get('/show', 'ShowProfile@show');
+
 Route::get('/signup', function () {
     return view('signup');
+});
+Route::get('/contact', function () {
+    return view('contact');
 });

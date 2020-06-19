@@ -38,9 +38,8 @@
                   <p class="newarrival text-center">NEW</p>
                   <h2>Running shoes + FREE SHIPPING</h2>
                   <p>Product code:HBTN2576</p>
-                  <img src="stars.png" class="stars">
+                  <img src="img/stars.png" class="stars">
                   <p class="price">TND 40.00</p>
-                  {{ $s ?? '' }}
                   <p><b>Aviability:</b> In Stock</p>
                   <p><b>Condition:</b> NEW</p>
                   <p><b>Brand:</b> HBTN Company</p>
