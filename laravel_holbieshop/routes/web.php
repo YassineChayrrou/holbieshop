@@ -33,11 +33,15 @@ Route::get('/product', function () {
     return view('product');
 });
 
-Route::get('/show', 'ShowProfile@show');
-
 Route::get('/signup', function () {
     return view('signup');
 });
 Route::get('/contact', function () {
     return view('contact');
 });
+
+Route::get('/admin/dashboard', 'admin\Products@showProducts');
+
+// Route::get('/dashboard', function () {
+//     return view('dashboard');
+// });
