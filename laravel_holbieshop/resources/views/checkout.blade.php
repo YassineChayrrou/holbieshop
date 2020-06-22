@@ -191,7 +191,7 @@
         </div>
         
         <hr class="mb-4">
-        <button class="btn btn-danger btn-lg btn-block" type="submit">Continue to checkout</button>
+        <a class="btn btn-danger btn-lg btn-block" href="https://alkhammassi.alwaysdata.net/checkout">Continue to checkout</a>
       </form>
     </div>
   </div>
