@@ -6,8 +6,8 @@ HolbyShop is a responsive e-commerce web application.
 ####  Technologies
 #
 #
-  - [Twitter Bootstrap] - great UI open-source CSS framework for modern web-apps
-  - [Jquery] - Javascript library
+  - [Twitter Bootstrap](https://getbootstrap.com/) - great UI open-source CSS framework for modern web-apps
+  - [Jquery](https://jquery.com/) - Javascript library
   - [Laravel](https://laravel.com/docs/7.x) - php framework for backend
 #
 ## Setup
