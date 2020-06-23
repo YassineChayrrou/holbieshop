@@ -49,8 +49,5 @@ $ sudo apt install libapache2-mod-php php-mysql
 | Khouloud Alkhammassi | [visit](https://github.com/ggirlk) | [visitHere](http://www.postyourlinkhere.com/) |
 | Mohammed Yassine Aboub | [visit](https://github.com/yassineaboub) | [visitHere](http://www.postyourlinkhere.com/) |
 
-
-[contributers](https://github.com/YassineChayrrou/holbieshop/graphs/contributors)
-
 ## Licence 
 
