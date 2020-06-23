@@ -1,4 +1,4 @@
-
+<!-- product template -->
 @for ($i = 0; $i < 8; $i++)
 <div class="col-md-3">
     <div class="card mb-4 shadow-md">
