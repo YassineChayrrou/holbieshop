@@ -43,9 +43,13 @@ $ sudo apt install libapache2-mod-php php-mysql
 * `php artisan serve`
 
 ## Contributors
-Yassine Chayrrou - Author
-[Khouloud Alkhammassi]
-[Mohammed Yassine Aboub]
+| Contributers | Github Links | LinkedIn Links |
+| ------------ | ------------ | -------------- |
+| Yassine Chayrrou | [visit](https://github.com/YassineChayrrou) | [visitHere](http://www.postyourlinkhere.com/) |
+| Khouloud Alkhammassi | [visit](https://github.com/ggirlk) | [visitHere](http://www.postyourlinkhere.com/) |
+| Mohammed Yassine Aboub | [visit](https://github.com/yassineaboub) | [visitHere](http://www.postyourlinkhere.com/) |
+
+
 [contributers](https://github.com/YassineChayrrou/holbieshop/graphs/contributors)
 
 ## Licence 
