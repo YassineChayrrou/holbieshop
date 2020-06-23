@@ -73,3 +73,5 @@ And for the last thing is that once i setup the project with php, i am going to 
 
 ## Licence 
 
+
+HolbyShop is an open source web application under the [MIT license](https://opensource.org/licenses/MIT).
