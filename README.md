@@ -1,5 +1,5 @@
-# HolbyShop
-![alt text](https://github.com/YassineChayrrou/holbyshop/blob/master/laravel_holbieshop/public/img/account-login.jpg)
+# HolbyShop :purse: :shopping: :handbag: :high_heel:
+![alt text](https://github.com/YassineChayrrou/holbyshop/blob/master/laravel_holbieshop/public/img/logo.png)
 
 HolbyShop is a responsive e-commerce web application.
 This repository is simply a work to understand how to build e-commerce website, the challenges and major components you need to know about.
