@@ -73,10 +73,7 @@ In order to ensure that the Laravel community is welcoming to all, please review
 ## Security Vulnerabilities
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-## Related Projects
 
-* python-holbyshop a python project clone of this project
-* Improvements and other touches to UI and dashboard coming soon
 
 ## License
 

@@ -2,7 +2,7 @@
 
 
 HolbyShop is a responsive e-commerce web application.
-
+This repository is simply a work to understand how to build e-commerce website, the challenges and major components you need to know about.
 ####  Technologies
 #
 #
@@ -48,6 +48,12 @@ $ sudo apt install libapache2-mod-php php-mysql
 | Yassine Chayrrou | [visit](https://github.com/YassineChayrrou) | [visitHere](http://www.postyourlinkhere.com/) |
 | Khouloud Alkhammassi | [visit](https://github.com/ggirlk) | [visitHere](http://www.postyourlinkhere.com/) |
 | Mohammed Yassine Aboub | [visit](https://github.com/yassineaboub) | [visitHere](http://www.postyourlinkhere.com/) |
+
+
+## Related Projects
+
+* python-holbyshop a python project clone of this project
+* Improvements and other touches to UI and dashboard coming soon
 
 ## Licence 
 
