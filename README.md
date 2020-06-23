@@ -3,25 +3,24 @@
 
 HolbyShop is a responsive e-commerce web application.
 This repository is simply a work to understand how to build e-commerce website, the challenges and major components you need to know about.
-####  Technologies
-#
+##  Technologies
 #
   - [Twitter Bootstrap](https://getbootstrap.com/) - great UI open-source CSS framework for modern web-apps
   - [Jquery](https://jquery.com/) - Javascript library
   - [Laravel](https://laravel.com/docs/7.x) - php framework for backend
-#
 ## Setup
 
-#### Installation
-##### Setting up a LAMP stack
-#
+### Installation
+#### Setting up a LAMP stack
+
+
 either install [Xamp](https://www.apachefriends.org/index.html) if you don't have LAMP installed or simply do manual setup:
 #
 If you have xampp to run locally make sure you export `/opt/lampp/bin` directory to $PATH environment variable so that you can interact with them in command line
 ```sh
 $ export PATH=$PATH:/opt/lampp/bin
 ```
-#
+
 Or do a manual install using the usual commands although follow this [tutorial](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04) for better reference
 #
 ```sh
