@@ -20,7 +20,7 @@ class Users extends Controller
 	}
     public function addUsers(/*Request $r*/)
     {
-		
     	return view('admin.dashboard');
     }
 }
+
