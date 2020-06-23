@@ -53,7 +53,7 @@ For the backend right now you can go to the dashboard to see we got only the pro
 
 In the upcoming term i am going to do some major stuff such as adding all users show and checkouts show to dashboard alongside with CRUD functionality of them directly from the dashboard also there is the fix of how products must show at the store as long as you add products you need to categorise them and show them in bulk, that is something i am still working on in addition to the cart as well, these must sound like a lot not working but i get to code and learn until i finish this work.
 
-######NOTE:
+###### NOTE:
 
 I will update  this Poject note section once in a while if there is some major change so you can know what is going on don't worry about that ;)
 And for the last thing is that once i setup the project with php, i am going to do it using python, mostly flask and if i have time maybe a jango version of it also although that is a bit far in the futur.
